@@ -1,0 +1,17 @@
+{
+  "id": "REC-000",
+  "name": "Zero",
+  "alive": false,
+  "status": "-",
+  "fields": [
+    ["ОБОЛОЧКА", "Гештальт"],
+    ["ФРАКЦИЯ", "lol"],
+  ],
+  "sections": [
+    {
+      "title": "ПРЕДЫСТОРИЯ",
+      "text": "True Adam",
+      "placeholder": true
+    }
+  ]
+}
