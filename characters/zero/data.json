@@ -3,6 +3,7 @@
   "name": "zero",
   "alive": false,
   "status": "-",
+  "photo": "zero.jpg",
   "fields": [
     ["ОБОЛОЧКА", "Гештальт"],
     ["ФРАКЦИЯ", "lol"]
